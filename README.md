@@ -26,6 +26,7 @@ To create your own levels, run `./leveleditor.py` in your terminal.
 ## Exercises
 
 - [Exercise1](exercise1.md)
+- [Exercise2](exercise2.md)
 
 ## Contributing
 

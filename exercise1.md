@@ -1,4 +1,4 @@
-# Exercise
+# Exercise 1
 This readMe is used to learn `Markdown`.\
 In this readme you will find:
 - pictures
