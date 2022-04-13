@@ -25,7 +25,7 @@ In this exercise we will learn, how to combine Java, Intellij and GitHub.
 
     ![](Pictures/build_successful.png)
 
-* *Compiling worked with Linux, but i coudln't get it to run, so I switched for the last task to Windows.*
+* *Compiling with Linux worked, but I couldn't get it to run, so I switched to Windows for the final step.*
 
   ![](Pictures/runningMain.PNG)
 
