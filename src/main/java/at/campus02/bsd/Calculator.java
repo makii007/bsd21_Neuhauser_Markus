@@ -25,15 +25,13 @@ public class Calculator {
         return result;
     }
     public int faculty(int number1){
-        /*if (number1 >= 0){
+        if (number1 >= 0){
             for (int i = number1 - 1; i > 0; i--){
                 number1 *= i;
             }
             return number1;
         }
-        else*/
+        else
             return 0;
-
-
     }
 }
