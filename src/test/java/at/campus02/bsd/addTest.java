@@ -39,4 +39,22 @@ public class addTest {
     void MultiplicationTesting2(){
         result = 15*79;
         Assertions.assertEquals(result, test.multiply(15, 79)); }
+
+    /*
+    -------------- FACULTY --------------
+    */
+
+    @Test
+    void FacultyTesting1(){
+        Assertions.assertEquals(120, test.faculty(5));
+    }
+    @Test
+    void FacultyTesting2(){
+        result = 9*8*7*6*5*4*3*2*1;
+        Assertions.assertEquals(result, test.faculty(9));
+    }
+    @Test
+    void FacultyTesting3(){
+        Assertions.assertEquals(0, test.faculty(-9));
+    }
 }

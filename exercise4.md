@@ -11,3 +11,18 @@
 
 ![](resources/images/ex4_1.png)
 
+## Faculty
+
+### Phase 1
+
+* Methode wurde erstellt, liefert nun aber immer den Wert 0, da die Berechnung der Fakultät noch nicht eingefügt wurde.
+* Der 3. Test wurde trotzdem bestanden, da negative Parameter immer 0 zurückgeben sollen.
+
+![](resources/images/ex4_2.png)
+
+### Testaufbau
+
+* 1.Test: Überprüft das Ergebnis mit einem fertigen Ergebnis.
+* 2.Test: Überprüft das Ergebnis mittels einer Rechenoperation innehalb der Testmethode.
+* 3.Test: Überprüft das Ergebnis mit einem negativem Parameter.
+
