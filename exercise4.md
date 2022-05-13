@@ -26,3 +26,20 @@
 * 2.Test: Überprüft das Ergebnis mittels einer Rechenoperation innehalb der Testmethode.
 * 3.Test: Überprüft das Ergebnis mit einem negativem Parameter.
 
+### Phase 2
+
+* Berechnung für Fakultät einbauen.
+
+### Erweitereung Testaufbau
+
+* 4.Test: Überprüft das Ergebnis mit dem Parameter 1.
+* 5.Test: Überprüft das Ergebnis mit dem Parameter 0.
+
+## Tests in der Konsole ausführen
+
+`mvn test`
+
+![](resources/images/tests_successful.png)
+
+
+
