@@ -14,7 +14,7 @@ In this exercise we will learn, how to combine Java, Intellij and GitHub.
 
 * After the first build of your project you can see a new folder called *target*.
 
-    ![](Pictures/folder.png)
+    ![](resources/images/folder.png)
 
 * The target folder is used to house all output of the build. 
 
@@ -23,9 +23,9 @@ In this exercise we will learn, how to combine Java, Intellij and GitHub.
 * Edit the *pom.xml* file and add your Java and Maven versions, etc.
 * Now you can build your file inside the terminal using `mvn compile`.
 
-    ![](Pictures/build_successful.png)
+    ![](resources/images/build_successful.png)
 
 * *Compiling with Linux worked, but I couldn't get it to run, so I switched to Windows for the final step.*
 
-  ![](Pictures/runningMain.PNG)
+  ![](resources/images/runningMain.PNG)
 
