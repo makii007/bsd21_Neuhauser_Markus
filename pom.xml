@@ -7,7 +7,6 @@
     <groupId>org.example</groupId>
     <artifactId>bsd21_neuhauser_markus</artifactId>
     <version>1.0-SNAPSHOT</version>
-
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
@@ -62,5 +61,4 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
-
 </project>
