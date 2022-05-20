@@ -30,6 +30,10 @@ To create your own levels, run `./leveleditor.py` in your terminal.
 - [Exercise3](exercise3.md)
 - [Exercise4](exercise4.md)
 
+## Template Files
+
+- [log4j2.xml](log4j2.xml.template)
+
 ## Contributing
 
 I would welcome any form of support, like pull requests or suggestions.

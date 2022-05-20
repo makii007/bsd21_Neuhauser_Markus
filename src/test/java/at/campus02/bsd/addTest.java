@@ -1,6 +1,7 @@
 package at.campus02.bsd;
 
 import org.junit.jupiter.api.*;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class addTest {
 
@@ -28,6 +29,10 @@ public class addTest {
     void DivisionTesting2(){
         result = 750/15;
         Assertions.assertEquals(result, testCalculator.divide(750, 15)); }
+    @Test
+    void DivisionTesting3(){
+        assertThrows(ArithmeticException.class, () -> {testCalculator.divide(5, 0);});
+    }
     @Test
     void MultiplicationTesting1(){
         Assertions.assertEquals(100, testCalculator.multiply(10, 10)); }
