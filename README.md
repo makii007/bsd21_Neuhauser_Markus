@@ -29,7 +29,6 @@ To create your own levels, run `./leveleditor.py` in your terminal.
 - [Exercise2](exercise2.md)
 - [Exercise3](exercise3.md)
 - [Exercise4](exercise4.md)
-- [Exercise5](exercise5.md)
 
 ## Template Files
 
