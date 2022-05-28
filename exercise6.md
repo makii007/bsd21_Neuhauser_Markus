@@ -1,19 +1,19 @@
 # Exercise 6
 
-##Fragen:
+## Fragen:
 
-- #### Was ist notwendig um Maven Site Dokumentation zu generieren?
+#### Was ist notwendig um Maven Site Dokumentation zu generieren?
 1. Richtige Ordnerstruktur
 2. `site.xml`
 3. `pom.xml` muss alle notwendigen dependencies enthalten. 
 
-- #### Welche unterschiedlichen Aspekte, Konfigurationen, Informationen, usw. werden in site.xml bzw. pom.xml konfiguriert? 
+#### Welche unterschiedlichen Aspekte, Konfigurationen, Informationen, usw. werden in site.xml bzw. pom.xml konfiguriert? 
 
-In der `site.xml` kann eine eigene Menü-Übersicht der einzelnen Dateien erstellt werden. 
+- In der `site.xml` kann eine eigene Menü-Übersicht der einzelnen Dateien erstellt werden. 
 
-##Bilder
+## Bilder
 
-####ex6_1:
+#### ex6_1:
 ![](resources/images/ex6_1.png)
 
 #### ex6_2:
